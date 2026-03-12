@@ -14,7 +14,7 @@ arabic-gpt/
 ├── arabic_gpt.pth             # Pre-trained model weights
 └── arabic_gpt_finetuned.pth   # Fine-tuned model weights
 ```
-
+##note all this inside colab
 ---
 
 ## 🧱 Architecture — ArabicGPT
@@ -233,3 +233,7 @@ pip install torch transformers datasets pandas gradio matplotlib
 - **AraGPT2 Tokenizer:** [aubmindlab/aragpt2-base](https://huggingface.co/aubmindlab/aragpt2-base)
 - **GPT-2 Paper:** Radford et al., 2019 — *Language Models are Unsupervised Multitask Learners*
 - **Attention is All You Need:** Vaswani et al., 2017
+
+
+##this is the updated version with Perplexit"
+https://colab.research.google.com/drive/1eIgYKGeWcGCQBV7bhZEYw3hxzEP44nS4?usp=sharing
